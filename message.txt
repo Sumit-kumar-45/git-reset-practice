@@ -1,0 +1,2 @@
+Hello! I am learning Git Reset.
+This is my first practice repository.
