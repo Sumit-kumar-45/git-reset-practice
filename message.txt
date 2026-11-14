@@ -1,2 +1,4 @@
 Hello! I am learning Git Reset.
 This is my first practice repository.
+I am learning Git Log and Git Show.
+Git helps developers track project history.
