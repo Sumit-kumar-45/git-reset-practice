@@ -1,0 +1,8 @@
+Feature: Student Profile Editing
+
+Students should be able to:
+1. Update their name.
+2. Update their email.
+3. Save their profile changes.
+
+Status: Practice implementation
