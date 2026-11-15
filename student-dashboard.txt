@@ -1,0 +1,15 @@
+STUDENT DASHBOARD
+
+Welcome to CampusOS Student Dashboard!
+
+Student Name: Sumit
+Branch: Computer Science and Engineering (CSE)
+CGPA: 8.4
+
+Dashboard Features:
+1. Display student name.
+2. Display student branch.
+3. Display student CGPA.
+4. Show a welcome message.
+
+Status: Practice implementation
