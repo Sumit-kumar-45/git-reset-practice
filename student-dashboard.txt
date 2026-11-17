@@ -13,3 +13,4 @@ Dashboard Features:
 4. Show a welcome message.
 
 Status: Practice implementation
+Version 1.1 Update: Student dashboard improvement planned.
